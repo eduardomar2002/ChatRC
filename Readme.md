@@ -1,15 +1,22 @@
-Eduardo Marques
+# Projeto ChatRC
 
-Eduado Sousa
+Este é o repositório do Projeto ChatRC
 
-David Rama
+## Participantes
 
-Luis Lemos
+- **Eduardo Marques**
+- **Eduardo Sousa**
+- **David Rama**
+- **Luis Lemos**
+- **Jose Nogueira**
+- **Guilherme Gaspar**
+- **Lucas Pereira**
+- **Andre Vilhena**
 
-Jose Nogueira
+## Como Contribuir
 
-Guilherme Gaspar
-
-Lucas Pereira
-
-Andre Vilhena
+1. Faça um fork do projeto
+2. Crie uma branch para sua contribuição (`git checkout -b feature/tua-contribuicao`)
+3. Faça suas alterações e commit (`git commit -am 'Adicione sua contribuição'`)
+4. Push para a branch (`git push origin feature/tua-contribuicao`)
+5. Abra um Pull Request
