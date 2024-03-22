@@ -4,14 +4,14 @@ Este é o repositório do Projeto ChatRC
 
 ## Participantes
 
-- **Eduardo Marques**
-- **Eduardo Sousa**
-- **David Rama**
-- **Luis Lemos**
-- **Jose Nogueira**
-- **Guilherme Gaspar**
-- **Lucas Pereira**
-- **Andre Vilhena**
+- **André Filipe Gamito Vilhena - 2020213367**
+- **David António da Silva Rama - 2020224299**
+- **Eduardo Ferreira Sousa - 2020213605**
+- **Eduardo Martins Marques - 2020233725**
+- **José Pedro Félix Nogueira - 2020233342**
+- **Guilherme Filipe Albino Gaspar - 2020218933**
+- **Lucas Caixeiro Pereira - 2020233195**
+- **Luis Filipe Gonçalves Lemos - 2020217049**
 
 ## Como Contribuir
 
