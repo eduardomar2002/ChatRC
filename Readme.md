@@ -9,3 +9,5 @@ Luis Lemos
 Jose Nogueira
 
 Guilherme Gaspar
+
+Lucas Pereira
